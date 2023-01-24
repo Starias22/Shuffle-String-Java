@@ -1,4 +1,5 @@
 # Shuffle-String-Java
 Suffle a string using java
 
-This 
+This repository is about shuffling a characters string using java programming language.
+
